@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Nicholas Arand (@nikinuk)
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Generative NN with A2I2
+- 💞️ I’m looking to collaborate on any interesting project involving AI
+- 📫 How to reach me: nikinuk@gmail.com
+- I am also very much into cycling, traveling (that means bikepacking) and arts (from architecture to gastronomy)
